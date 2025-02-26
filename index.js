@@ -1,1 +1,1 @@
-console.log("This is first js file");
+console.log("This is FIRST js file");

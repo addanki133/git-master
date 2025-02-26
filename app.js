@@ -1,1 +1,1 @@
-console.log("This is second js file");
+console.log("This is SECOND js file");
