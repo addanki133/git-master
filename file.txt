@@ -1,0 +1,14 @@
+git init  //Initializing project
+git status //checking status of files
+git add file name //adding file
+git commit -m "message" //commiting changes
+
+create a repository in github
+==============
+git remote add orign "link of github repository"
+git branch //checking branch name.By default it will be in master branch
+git push -u orign master  //pushing the files to github repositories
+
+==========
+creating branches
+git checkout -b branch name 
