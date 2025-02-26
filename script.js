@@ -1,1 +1,1 @@
-console.log("This is third js file");
+console.log("This is THIRD js file");
